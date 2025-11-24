@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'JUST Sans';
+  src: url('./JUST-Sans-Regular.woff2') format('woff2'),
+    url('./JUST-Sans-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JUST Sans';
+  src: url('./JUST-Sans-ExBold.woff2') format('woff2'),
+    url('./JUST-Sans-ExBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'JUST Sans Outline';
+  src: url('./JUST-Sans-Outline-Regular.woff') format('woff2'),
+    url('./JUST-Sans-Outline-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JUST Sans Outline';
+  src: url('./JUST-Sans-Outline-ExBold.woff2') format('woff2'),
+    url('./JUST-Sans-Outline-Regular.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
